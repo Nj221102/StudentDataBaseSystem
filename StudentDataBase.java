@@ -45,7 +45,7 @@ class Student {
 
 
             System.out.println("5.Exit");
-            System.out.print("Enter your Choice :");
+            System.out.print("Enter your Choice====>");
             int n= sc.nextInt();
             switch (n){
                 case 1: 
