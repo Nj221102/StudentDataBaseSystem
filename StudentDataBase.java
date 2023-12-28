@@ -11,7 +11,7 @@ class Student {
         this.name = Name;
         this.rollno = rollNo;
         this.age = Age;
-        this.marks = Marks;
+        this.marks = FullMarks;
     }
     public void view(){
         System.out.println("Name :" + name);
@@ -55,7 +55,7 @@ class Student {
                 int rollNo = sc.nextInt();
                 System.out.print("Enter Age:");
                 int age = sc.nextInt();
-                System.out.print("Enter Marks:");
+                System.out.print("Enter FullMarks:");
                 int marks= sc.nextInt();
 
                 Student temp= new Student(name,rollNo,age,marks );
