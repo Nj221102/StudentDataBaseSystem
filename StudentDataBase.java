@@ -35,14 +35,6 @@ class Student {
             System.out.println("3.Search Students");
 
             System.out.println("4.Average marks calculator");
-=======
-            System.out.println("Average mark calculator");
-
-            System.out.println("2.View Students");
-
-            System.out.println("3.find Students");
-            System.out.println("4.Average mark");
-
 
             System.out.println("5.Exit");
             System.out.print("Enter your Choice====>");
