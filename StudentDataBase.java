@@ -34,7 +34,7 @@ class Student {
             System.out.println("2.vew Students");
             System.out.println("3.Search Students");
             System.out.println("Average mark calculator");
-=======
+
             System.out.println("2.View Students");
 
             System.out.println("3.find Students");
