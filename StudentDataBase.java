@@ -30,7 +30,7 @@ class Student {
         HashMap<Integer, Student> map = new HashMap<Integer, Student>();
         while (true) {
             System.out.println("1.Add Student");
-            System.out.println("2.View Students");
+            System.out.println("2.vew Students");
             System.out.println("3.Search Students");
             System.out.println("Average mark calculator");
             System.out.println("5.Exit");
