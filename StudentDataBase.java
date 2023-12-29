@@ -5,7 +5,7 @@ class Student { // great and the greatest...
    public String name;
    public int rollno;
    public int myage;
-    public int  Fullmarks;
+    public int  Fullmarks; // mine
 
     public  Student(String Name, int rollNo, int Age, int Marks) {
         this.name = Name;
