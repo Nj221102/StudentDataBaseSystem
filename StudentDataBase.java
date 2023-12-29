@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashMap;
 
-class Student {
+class Student { // great and the greatest...
    public String name;
    public int rollno;
    public int myage;
