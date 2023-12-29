@@ -5,7 +5,7 @@ class Student {
    public String name;
    public int rollno;
    public int age;
-    public int marks;
+   public int marks;
 
     public  Student(String Name, int rollNo, int Age, int Marks) {
         this.name = Name;
@@ -35,8 +35,9 @@ class Student {
             System.out.println("Average mark calculator");
             System.out.println("5.Exit");
             System.out.print("Enter your Choice :");
-            int n= sc.nextInt();
-            switch (n){
+            int option= sc.nextInt();
+            sc.close();
+            switch (option){
                 case 1: 
                 System.out.print("Enter Name:");
                 String name = sc.next();
