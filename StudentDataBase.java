@@ -1,11 +1,11 @@
 import java.util.Scanner;
 import java.util.HashMap;
 
-class Student {
+class Student { // great and the greatest...
    public String name;
    public int rollno;
    public int myage;
-    public int  Fullmarks;
+    public int  Fullmarks; // mine
 
     public  Student(String Name, int rollNo, int Age, int Marks) {
         this.name = Name;
@@ -20,7 +20,7 @@ class Student {
         System.out.println("Marks :"+ marks);
     }
 
-}
+} // this is a dummy contribution. 
 
  public class StudentDataBase {
 
